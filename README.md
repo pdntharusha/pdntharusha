@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://nimeshtharusha.infinityfree.me/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=800&color=22C55E&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Nimesh+%F0%9F%91%8B;Passionate+about+Cybersecurity+%F0%9F%94%90;DevOps+%E2%80%A2+Linux+%E2%80%A2+Automation+%F0%9F%90%A7;Full+Stack+Developer+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+Django;4th-year+Software+Engineering+undergrad;I+build+fast%2C+clean%2C+accessible+products;Building+AkuruOne+%E2%80%94+a+Sinhala+keyboard+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=800&color=22C55E&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Nimesh+%F0%9F%91%8B;Passionate+about+Cybersecurity+%F0%9F%94%90;DevOps+%E2%80%A2+Linux+%E2%80%A2+Automation+%F0%9F%90%A7;Full+Stack+Developer+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+Django;3rd-year+Software+Engineering+undergrad;I+build+fast%2C+clean%2C+accessible+products;Building+AkuruOne+%E2%80%94+a+Sinhala+keyboard+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 ```js
 const nimesh = {
   role:      "Full Stack Developer",
-  education: "BSc (Hons) Software Engineering — 4th year",
+  education: "BSc (Hons) Software Engineering — 3rd year",
   location:  "Sri Lanka 🇱🇰",
   passions:  ["Cybersecurity 🔐", "DevOps ⚙️", "Linux 🐧"],
   focus:     ["Full stack web apps", "UI/UX design", "Landing pages", "Android"],
