@@ -1,11 +1,11 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1023,40:4F46E5,100:8B3DF5&height=240&section=header&text=Nimesh%20Tharusha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20Undergraduate&descAlignY=58&descSize=18" alt="Nimesh Tharusha" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1023,40:4F46E5,100:8B3DF5&height=240&section=header&text=Nimesh%20Tharusha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20DevOps%20%E2%80%A2%20Linux%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18" alt="Nimesh Tharusha" />
 </p>
 
 <p align="center">
   <a href="https://nimeshtharusha.infinityfree.me/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=800&color=22C55E&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Nimesh+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+Django;4th-year+Software+Engineering+undergrad;I+build+fast%2C+clean%2C+accessible+products;Building+AkuruOne+%E2%80%94+a+Sinhala+keyboard+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=800&color=22C55E&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Nimesh+%F0%9F%91%8B;Passionate+about+Cybersecurity+%F0%9F%94%90;DevOps+%E2%80%A2+Linux+%E2%80%A2+Automation+%F0%9F%90%A7;Full+Stack+Developer+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+Django;4th-year+Software+Engineering+undergrad;I+build+fast%2C+clean%2C+accessible+products;Building+AkuruOne+%E2%80%94+a+Sinhala+keyboard+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/terminal.gif" width="720" alt="whoami" />
+  <img src="assets/hacker.gif" width="760" alt="root@kali — access granted" />
 </p>
 
 ---
@@ -31,12 +31,16 @@ const nimesh = {
   role:      "Full Stack Developer",
   education: "BSc (Hons) Software Engineering — 4th year",
   location:  "Sri Lanka 🇱🇰",
+  passions:  ["Cybersecurity 🔐", "DevOps ⚙️", "Linux 🐧"],
   focus:     ["Full stack web apps", "UI/UX design", "Landing pages", "Android"],
   building:  "AkuruOne — a Sinhala · Singlish · English keyboard for Android",
   status:    "Available for freelance work 🚀",
 };
 ```
 
+- 🔐 Passionate about **cybersecurity** — network scanning, system hardening, firewalls and secure-by-default apps
+- ⚙️ Into **DevOps** — Docker, CI/CD pipelines, Kubernetes and automating everything
+- 🐧 **Linux** at heart — living in the terminal, Bash scripting and self-hosting
 - 🌐 Freelance full stack developer since **2023** — custom web apps, landing pages and API integrations
 - 🏢 Former **Software Engineering Intern** — reusable component libraries, database design, code reviews, sprints
 - 🎨 From **Figma** wireframes to production code
@@ -45,6 +49,18 @@ const nimesh = {
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <b>🔐 Security · ⚙️ DevOps · 🐧 Linux</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,bash,docker,kubernetes,githubactions,nginx,aws,ansible,terraform&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
 
 <p align="center">
   <b>Frontend</b><br/><br/>
@@ -60,6 +76,19 @@ const nimesh = {
   <b>Mobile, Languages & Tools</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=androidstudio,java,cs,dotnet,git,github,docker,vercel,vscode,figma&theme=dark" />
 </p>
+
+---
+
+## 🎯 Currently Exploring
+
+```bash
+┌──(nimesh㉿kali)-[~]
+└─$ cat roadmap.txt
+[■■■■■■■□□□]  Linux administration & Bash automation
+[■■■■■■□□□□]  Docker · Kubernetes · CI/CD pipelines
+[■■■■■□□□□□]  Network security · pentesting · OWASP Top 10
+[■■■■□□□□□□]  Cloud security & infrastructure as code
+```
 
 ---
 
@@ -125,4 +154,4 @@ An app for tracking tasks.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B3DF5,60:4F46E5,100:0B1023&height=120&section=footer" alt="" />
 </p>
 
-<p align="center"><i>“Fast, clean and accessible — that's the goal every time.”</i></p>
+<p align="center"><i>“Stay curious. Stay secure. Automate everything.” 🔐🐧</i></p>
