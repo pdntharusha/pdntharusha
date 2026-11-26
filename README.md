@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1023,40:4F46E5,100:8B3DF5&height=240&section=header&text=Nimesh%20Tharusha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20DevOps%20%E2%80%A2%20Linux%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18" alt="Nimesh Tharusha" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:052e16,100:0f766e&height=240&section=header&text=Nimesh%20Tharusha&fontSize=60&fontColor=39ff88&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20DevOps%20%E2%80%A2%20Linux%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18" alt="Nimesh Tharusha" />
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://nimeshtharusha.infinityfree.me/"><img src="https://img.shields.io/badge/Portfolio-0B1023?style=for-the-badge&logo=googlechrome&logoColor=22C55E" /></a>
+  <a href="https://nimeshtharusha.infinityfree.me/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22C55E" /></a>
   <a href="https://linkedin.com/in/nimesh-tharusha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hello@nimeshtharusha.dev"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pdntharusha&style=for-the-badge&color=8B3DF5&label=PROFILE+VIEWS" />
+  <a href="mailto:hello@nimeshtharusha.dev"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pdntharusha&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
@@ -136,22 +136,22 @@ An app for tracking tasks.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pdntharusha&show_icons=true&count_private=true&hide_border=true&bg_color=0B1023&title_color=8B3DF5&icon_color=22C55E&text_color=E5E7EB" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdntharusha&layout=compact&hide_border=true&bg_color=0B1023&title_color=8B3DF5&text_color=E5E7EB" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pdntharusha&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=E5E7EB" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdntharusha&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pdntharusha&hide_border=true&background=0B1023&ring=8B3DF5&fire=22C55E&currStreakLabel=22C55E&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+  <img src="https://streak-stats.demolab.com?user=pdntharusha&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pdntharusha&bg_color=0B1023&color=A5B4FC&line=8B3DF5&point=22C55E&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pdntharusha&bg_color=0D1117&color=86EFAC&line=22C55E&point=22C55E&area=true&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B3DF5,60:4F46E5,100:0B1023&height=120&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,55:052e16,100:000000&height=120&section=footer" alt="" />
 </p>
 
 <p align="center"><i>“Stay curious. Stay secure. Automate everything.” 🔐🐧</i></p>
